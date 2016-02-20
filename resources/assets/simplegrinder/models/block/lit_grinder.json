@@ -1,0 +1,7 @@
+
+{
+      "parent": "minecraft:block/furnace",
+     "textures": {
+     "front": "simplegrinder:blocks/on"
+  }
+}

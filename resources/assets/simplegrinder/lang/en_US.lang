@@ -1,0 +1,16 @@
+#CreativeTabs
+itemGroup.Simple Grinder=Simple Grinder
+#JEI
+
+#Gui
+container.grinder=Coal Grinder
+
+#Block
+tile.coal_grinder.name=Coal Grinder
+tile.machine_core.name=Machine Core
+#Item
+item.mash_potato.name=Mashed Potatoes
+item.mash_carrot.name=Mashed Carrots
+item.dust_iron.name=Iron Dust
+item.dust_gold.name=Gold Dust
+item.flour.name=Flour

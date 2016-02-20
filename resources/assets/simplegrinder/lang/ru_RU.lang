@@ -1,0 +1,25 @@
+#CreativeTabs
+itemGroup.Simple Grinder=Simple Grinder
+#NEI
+nei.recipe.coalgrinder=Дробление
+nei.recipe.coalgrinderIII=Дробление в гриндере 3 уровня
+nei.recipe.coalgrinderIV=Дробление в гриндере 4 уровня
+#Gui
+container.Coal Grinder=Угленный гриндер 1 уровня
+container.Coal GrinderII=Угленный гриндер 2 уровня
+container.Coal GrinderIII=Угленный гриндер 3 уровня
+container.Coal GrinderIV=Угленный гриндер 4 уровня
+#Block
+tile.CoalGrinderI_tier.name=Угленный гриндер 1 уровня
+tile.CoalGrinderII.name=Угленный гриндер 2 уровня
+tile.CoalGrinderIII.name=Угленный гриндер 3 уровня
+tile.CoalGrinderIV.name=Угленный гриндер 4 уровня
+tile.MashineCausing.name=Машинный корпус
+tile.FortifiedMashineCausing.name=Укрепленный Машинный корпус
+#Item
+item.potMash.name=Картофельное пюре
+item.carrotMash.name=Морковное пюре
+item.dustIron.name=Железная пыль
+item.dustGold.name=Золотая пыль
+item.Flour.name=Мука
+item.obsdianDust.name=Обсидиановая пыль

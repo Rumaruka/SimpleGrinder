@@ -1,0 +1,15 @@
+﻿#NEI
+nei.recipe.coalgrinder=研磨
+#Gui
+container.Coal Grinder=磨煤机
+container.Coal GrinderII=二级磨煤机
+#Block
+tile.CoalGrinderI_tier.name=磨煤机
+tile.CoalGrinderII.name=二级磨煤机
+tile.MashineCausing.name=机器外壳
+#Item
+item.potMash.name=土豆泥
+item.carrotMash.name=胡萝卜泥
+item.dustIron.name=铁尘
+item.dustGold.name=金尘
+item.Flour.name=面粉
