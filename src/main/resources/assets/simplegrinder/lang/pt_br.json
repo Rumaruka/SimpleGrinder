@@ -1,0 +1,16 @@
+{
+
+    "itemGroup.simplegrinder": "Moedor Simples",
+    "container.coal_grinder": "Moedor de carvão",
+    "block.simplegrinder.machine_core": "Núcleo da Máquina",
+    "block.simplegrinder.coal_grinder": "Moedor de carvão",
+    "block.simplegrinder.energy_grinder": "[WIP] Moedor de Energia",
+    "item.simplegrinder.dust_iron": "Pó de Ferro",
+    "item.simplegrinder.dust_gold": "Póde ouro",
+    "item.simplegrinder.flour": "Farinha",
+    "item.simplegrinder.mash_carrot": "Purê de cenoura",
+    "item.simplegrinder.mash_potato": "Purê de batata",
+    "item.simplegrinder.omlete": "Omelete",
+    "gui.jei.category.grinder": "Moagem"
+  
+  }
