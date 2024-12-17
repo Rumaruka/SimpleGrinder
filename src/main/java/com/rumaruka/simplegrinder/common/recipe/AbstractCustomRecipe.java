@@ -16,8 +16,8 @@ public abstract class AbstractCustomRecipe implements Recipe<SingleRecipeInput> 
 
 
     protected final String group;
-    protected final Ingredient ingredient;
-    protected final ItemStack result;
+    public final Ingredient ingredient;
+    public final ItemStack result;
     protected final float experience;
     protected final int cookingTime;
     @Nullable
