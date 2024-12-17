@@ -1,0 +1,12 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient":["minecraft:wheat"]
+,
+  "result": {
+    "id": "simplegrinder:flour",
+    "count":2
+  },
+
+  "cookingtime": 150
+
+}

@@ -1,0 +1,15 @@
+{
+
+  "itemGroup.simplegrinder": "SimpleGrinder",
+  "container.coal_grinder": "Угольный гриндер",
+  "block.simplegrinder.machine_core": "Машинный корпус",
+  "block.simplegrinder.coal_grinder": "Угольный гриндер",
+  "item.simplegrinder.dust_iron": "Железная пыль",
+  "item.simplegrinder.dust_gold": "Золотая пыль",
+  "item.simplegrinder.dust_copper": "Медная пыль",
+  "item.simplegrinder.flour": "Мука",
+  "item.simplegrinder.mash_carrot": "Морковное пюре",
+  "item.simplegrinder.mash_potato": "Картофельное пюре",
+  "item.simplegrinder.omlete": "Омлет"
+
+}

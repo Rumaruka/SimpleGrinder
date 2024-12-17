@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":  ["simplegrinder:flour"]
+  ,
+  "result": {
+    "id":"minecraft:bread"
+  },
+
+  "experience": 0,
+  "cookingtime": 200
+}

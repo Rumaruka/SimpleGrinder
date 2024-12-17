@@ -1,0 +1,12 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient": [ "minecraft:gravel"]
+  ,
+  "result": {
+    "id": "minecraft:flint",
+    "count":2
+  },
+
+  "cookingtime": 150
+
+}

@@ -1,0 +1,13 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient":  ["minecraft:gold_ore"]
+  ,
+   "result": {
+   "id": "simplegrinder:dust_gold",
+   "count":4
+   },
+
+  "count":4,
+  "experience": 0.1,
+  "cookingtime": 150
+}

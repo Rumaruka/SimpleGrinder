@@ -1,0 +1,14 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient":  ["minecraft:deepslate_redstone_ore"]
+  ,
+
+  "result": {
+    "id": "minecraft:redstone",
+    "count":20
+  },
+
+
+  "cookingtime": 150
+
+}

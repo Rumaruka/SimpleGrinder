@@ -1,0 +1,14 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient":
+  [ "minecraft:diamond_ore"]
+  ,
+
+  "result": {
+    "id": "minecraft:diamond",
+    "count":5
+  },
+
+  "cookingtime": 150
+
+}

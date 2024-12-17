@@ -1,0 +1,9 @@
+
+ {
+   "parent": "block/orientable",
+   "textures": {
+     "top": "simplegrinder:block/top",
+     "front": "simplegrinder:block/off",
+     "side": "simplegrinder:block/side"
+   }
+ }

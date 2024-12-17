@@ -1,0 +1,12 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient": ["minecraft:bookshelf"]
+   ,
+
+  "result": {
+    "id": "minecraft:book",
+    "count":3
+  },
+  "cookingtime": 150
+
+}

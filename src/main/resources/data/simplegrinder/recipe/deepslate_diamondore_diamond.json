@@ -1,0 +1,14 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient":
+    [ "minecraft:deepslate_diamond_ore"]
+  ,
+
+  "result": {
+    "id": "minecraft:diamond",
+    "count":5
+  },
+
+  "cookingtime": 150
+
+}

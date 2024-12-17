@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient":
+ [ "simplegrinder:dust_iron"]
+  ,
+  "result": {
+    "id":"minecraft:iron_ingot"
+  },
+
+  "experience": 1.0,
+  "cookingtime": 50
+}

@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "simplegrinder:item/i_fuel"
+    }
+}

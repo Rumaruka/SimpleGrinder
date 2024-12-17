@@ -1,0 +1,15 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient": ["minecraft:ancient_debris"],
+
+
+
+   "result": {
+   "id": "minecraft:netherite_scrap",
+   "count":4
+   },
+
+  "count":3,
+  "experience": 0.1,
+  "cookingtime": 150
+}

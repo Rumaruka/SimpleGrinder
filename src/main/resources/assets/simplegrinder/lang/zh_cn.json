@@ -1,0 +1,14 @@
+{
+
+  "itemGroup.simplegrinder": "简易研磨机",
+  "container.coal_grinder": "燃煤研磨机",
+  "block.simplegrinder.machine_core": "机器核心",
+  "block.simplegrinder.coal_grinder": "燃煤研磨机",
+  "item.simplegrinder.dust_iron": "铁粉",
+  "item.simplegrinder.dust_gold": "金粉",
+  "item.simplegrinder.flour": "面粉",
+  "item.simplegrinder.mash_carrot": "胡萝卜泥",
+  "item.simplegrinder.mash_potato": "土豆泥",
+  "item.simplegrinder.omlete": "煎蛋卷"
+
+}

@@ -1,0 +1,12 @@
+{
+  "type": "simplegrinder:grinder",
+  "ingredient": [ "minecraft:cobblestone"],
+
+  "result": {
+    "id": "minecraft:sand",
+    "count":2
+  },
+
+  "cookingtime": 150
+
+}

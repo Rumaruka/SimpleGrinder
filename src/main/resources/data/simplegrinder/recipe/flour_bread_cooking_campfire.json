@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient":  ["simplegrinder:flour"]
+  ,
+  "result": {
+    "id":"minecraft:bread"
+  },
+  "experience": 0,
+  "cookingtime": 500
+
+
+}

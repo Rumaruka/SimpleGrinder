@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":  ["simplegrinder:dust_gold"]
+  ,
+  "result": {
+    "id":"minecraft:gold_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

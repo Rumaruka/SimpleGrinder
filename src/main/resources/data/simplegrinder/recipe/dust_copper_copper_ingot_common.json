@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":  ["simplegrinder:dust_copper"]
+,
+  "result": {
+    "id":"minecraft:copper_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

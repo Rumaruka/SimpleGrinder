@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "rpr",
+    "sss"
+  ],
+  "key": {
+    "s":  ["minecraft:stone"]
+    ,
+    "r":  ["minecraft:redstone"]
+    ,
+    "p":  ["minecraft:piston"]
+
+  },
+  "result": {
+    "id": "simplegrinder:machine_core"
+  }
+}

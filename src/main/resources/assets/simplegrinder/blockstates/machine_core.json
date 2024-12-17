@@ -1,0 +1,21 @@
+
+{
+  "variants": {
+    "": [
+      {
+        "model": "simplegrinder:block/machine_core"
+      },
+      {
+        "model": "simplegrinder:block/machine_core"
+      },
+      {
+        "model": "simplegrinder:block/machine_core",
+        "y": 180
+      },
+      {
+        "model": "simplegrinder:block/machine_core",
+        "y": 180
+      }
+    ]
+  }
+}
